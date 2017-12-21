@@ -20,6 +20,7 @@ export class CoursesComponent implements OnInit {
 
   ngOnInit() {
     this.getCourses();
+    //hello
   }
 
 onSelect(course:Course):void {
